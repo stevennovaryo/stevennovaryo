@@ -1,6 +1,6 @@
-## Hey 👋, This is Steven Novaryo
+## Hey 👋, I am Steven Novaryo
 [![Gmail Badge](https://img.shields.io/badge/-steven.novaryo@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:steven.novaryo@gmail.com)](mailto:steven.novaryo@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-stevennovaryo-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steven-novaryo-67944b1b7/)](https://www.linkedin.com/in/steven-novaryo-67944b1b7/) [![Github Badge](https://img.shields.io/badge/-stevennovaryo-grey?style=flat&logo=github&logoColor=white&link=https://github.com/stevennovaryo/)](https://www.github.com/stevennovaryo/) <p align='left'>
+[![Linkedin Badge](https://img.shields.io/badge/-stevennovaryo-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steven-novaryo-67944b1b7/)](https://www.linkedin.com/in/steven-novaryo-67944b1b7/) <p align='left'>
 - 🔭 I’m currently working on web development. <!-- - 🌱 I’m currently learning full-stack development and data science. /!-->
 - 👯 I’m looking to collaborate on a community and open source project.
 - 💬 Ask me about competitive programming and web (engine) development.
